@@ -1,13 +1,4 @@
 # home
 
-https://www.flaticon.com/free-icons/thermometer
-
-https://graphemica.com/%F0%9F%94%B0
-
-https://graphemica.com/%F0%9F%95%B2
-
-https://graphemica.com/%F0%9F%91%81
-
-https://graphemica.com/%E2%9D%96
-
-
+About
+Smart Home Theft Alert System is a embedded system that detects any movement using input sensors then sends alert to the owner. It also allows the owner to control the output sensors.
